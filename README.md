@@ -15,7 +15,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 
 ## Pattern: Sliding Window
 
-- [ ] https://leetcode.com/problems/maximum-subarray/  (Blind)
+- [X] https://leetcode.com/problems/maximum-subarray/  (Blind)
 - [X] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [X] https://leetcode.com/problems/fruit-into-baskets/
@@ -28,11 +28,11 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ## Pattern: Islands(Matrix Traversal)
-- [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
+- [X] https://leetcode.com/problems/number-of-islands/ (Blind)
 - [ ] https://leetcode.com/problems/max-area-of-island/
 - [ ] https://leetcode.com/problems/flood-fill/
 - [ ] https://leetcode.com/problems/number-of-closed-islands/
-- [ ] https://leetcode.com/problems/island-perimeter/
+- [X] https://leetcode.com/problems/island-perimeter/
 - [ ] https://leetcode.com/problems/number-of-distinct-islands/
 - [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
 ## Pattern: Two Pointers
